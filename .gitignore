@@ -1,0 +1,10 @@
+venv/
+.gradio/
+__pycache__/
+
+*.pyc
+*.pyo
+*.pyd
+
+Thumbs.db
+.DS_Store
